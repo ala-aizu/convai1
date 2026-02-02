@@ -163,7 +163,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.Convai.ConvaiVR
+    Android: com.DefaultCompany.convai1
     Standalone: com.Convai.VR
   buildNumber:
     Standalone: 0
@@ -830,7 +830,7 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Android: READY_PLAYER_ME;USE_INPUT_SYSTEM_POSE_CONTROL;CC_TOOLS
+    Android: READY_PLAYER_ME;USE_INPUT_SYSTEM_POSE_CONTROL;CC_TOOLS;USE_STICK_CONTROL_THUMBSTICKS
     EmbeddedLinux: CC_TOOLS
     GameCoreScarlett: CC_TOOLS
     GameCoreXboxOne: CC_TOOLS
@@ -840,9 +840,9 @@ PlayerSettings:
     PS5: CC_TOOLS
     QNX: CC_TOOLS
     Stadia: CC_TOOLS
-    Standalone: AutoSetupForUnity;READY_PLAYER_ME;USE_INPUT_SYSTEM_POSE_CONTROL;USE_INPUT_SYSTEM_POSE_CONTROL;CC_TOOLS
+    Standalone: AutoSetupForUnity;READY_PLAYER_ME;USE_INPUT_SYSTEM_POSE_CONTROL;CC_TOOLS;USE_STICK_CONTROL_THUMBSTICKS
     WebGL: READY_PLAYER_ME;CC_TOOLS
-    Windows Store Apps: USE_INPUT_SYSTEM_POSE_CONTROL;USE_INPUT_SYSTEM_POSE_CONTROL;CC_TOOLS
+    Windows Store Apps: USE_INPUT_SYSTEM_POSE_CONTROL;CC_TOOLS;USE_STICK_CONTROL_THUMBSTICKS
     XboxOne: CC_TOOLS
     iPhone: CC_TOOLS
     tvOS: CC_TOOLS
