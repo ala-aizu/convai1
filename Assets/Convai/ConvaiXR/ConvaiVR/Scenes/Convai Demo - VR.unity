@@ -1765,6 +1765,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: XR Device Simulator
       objectReference: {fileID: 0}
+    - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6325,7 +6330,12 @@ PrefabInstance:
     - target: {fileID: 2639540652976512734, guid: 2a09da1d04f25174da5f37449608e885,
         type: 3}
       propertyPath: characterID
-      value: d1aeb28c-3b92-11ee-8189-42010a40000b
+      value: 201228ec-003e-11f1-aec5-42010a7be027
+      objectReference: {fileID: 0}
+    - target: {fileID: 2639540652976512734, guid: 2a09da1d04f25174da5f37449608e885,
+        type: 3}
+      propertyPath: characterName
+      value: Hikari
       objectReference: {fileID: 0}
     - target: {fileID: 3458780173217957940, guid: 2a09da1d04f25174da5f37449608e885,
         type: 3}
