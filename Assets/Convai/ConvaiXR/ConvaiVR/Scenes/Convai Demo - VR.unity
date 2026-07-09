@@ -6330,12 +6330,12 @@ PrefabInstance:
     - target: {fileID: 2639540652976512734, guid: 2a09da1d04f25174da5f37449608e885,
         type: 3}
       propertyPath: characterID
-      value: 201228ec-003e-11f1-aec5-42010a7be027
+      value: 360f1c86-c98a-11ef-82c5-42010a7be016
       objectReference: {fileID: 0}
     - target: {fileID: 2639540652976512734, guid: 2a09da1d04f25174da5f37449608e885,
         type: 3}
       propertyPath: characterName
-      value: Hikari
+      value: Lexi
       objectReference: {fileID: 0}
     - target: {fileID: 3458780173217957940, guid: 2a09da1d04f25174da5f37449608e885,
         type: 3}
